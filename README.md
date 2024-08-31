@@ -31,5 +31,5 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
-
-- Thanks to the Unsloth team for their efficient implementation
+The raw data is from https://github.com/NiuTrans/Classical-Modern
+The model is based on Llama 3.1 8B model
